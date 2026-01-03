@@ -1,3 +1,1 @@
-﻿Cái TT.bat sẽ làm máy bọn m tắt sau 10s.
-Lưu ý: đóng hết,save hết file nếu đang 
-làm gì đó trước khi dùng..
+CHỈ PHỤC VỤ CHO MỤC ĐÍCH GIÁO DỤC/ĐỪNG MỞ
